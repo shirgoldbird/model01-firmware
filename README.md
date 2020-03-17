@@ -6,3 +6,5 @@ Featuring:
 
 * Different, cooler* LED effects
 * Custom screenshot macros
+
+_* Cooler may be relative_
